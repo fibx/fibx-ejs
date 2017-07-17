@@ -1,0 +1,30 @@
+{
+  "name": "@fibjs/fibx-ejs",
+  "version": "1.0.1",
+  "description": "fibx ejs template view middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "fibjs ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibx/fibx-ejs.git"
+  },
+  "keywords": [
+    "fibjs",
+    "fibx",
+    "ejs"
+  ],
+  "author": "Rube",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fibx/fibx-ejs/issues"
+  },
+  "homepage": "https://github.com/fibx/fibx-ejs#readme",
+  "dependencies": {
+    "ejs": "2.5.*"
+  },
+  "devDependencies": {
+    "@fibjs/fibx": "*"
+  }
+}
